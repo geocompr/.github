@@ -1,5 +1,3 @@
-# GEOCOMPR
-
 ## R
 
 - [Geocomputation with R](https://geocompr.robinlovelace.net/)
