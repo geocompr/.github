@@ -2,7 +2,7 @@
 
 ## R
 
-- [https://geocompr.robinlovelace.net/](Geocomputation with R)
+- [Geocomputation with R](https://geocompr.robinlovelace.net/)
 - [https://geocompr.github.io/solutions/](Geocomputation with R: solutions)
 
 ## Python
